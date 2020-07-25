@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://cdn.luogu.com.cn/upload/image_hosting/xo41q5ok.png)
+
 <!--
 **X3B0A1/X3B0A1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
