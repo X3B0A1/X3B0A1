@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Imaage](https://github.com/X3B0A1/X3B0A1/blob/master/002.png?raw=true)](https://github.com/X3B0A1)
+[![Image](https://github.com/X3B0A1/X3B0A1/blob/master/002.png)](https://github.com/X3B0A1)
 <!--
 **X3B0A1/X3B0A1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
