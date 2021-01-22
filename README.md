@@ -32,16 +32,16 @@ Hi there 👋
 
 - 🌱 I’m currently learning c++ and I want to take part in the Olympic information competition.
 
-I'm happy to make friends, if you want to be friends with me, please add QQ 3242954996
+I'm happy to make friends, if you want to be friends with me, please add QQ 3242954996 or telegram:X3B0A1
 
 I don't have a twitter account for the time being, You know why : {
 
-Friends from other countries can email me(X3B0A1@gmail.com) ：]
+Friends from other countries can email me(X3B0A1@gmail.com) ：D
 
 or wait for me to get a twitter account :(
 
 
-**My project still has a lot of flaws and mistakes, so please give me more advice**
+**My projects still have a lot of flaws and mistakes, so welcome to give me advice**
 
 Thankyou 
 
